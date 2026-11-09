@@ -4,7 +4,7 @@
 
 [![Смотреть трейлер](screenshots/gravel.jpg)](https://github.com/tenyyq/rally-forever/releases/download/trailer/rally-forever-trailer.mp4)
 
-**[Скачать игру для Windows (140 МБ)](https://github.com/tenyyq/rally-forever/releases/download/v0.7.0/RallyForever-0.7.0-windows.zip)** — ранняя тестовая версия.
+**[Скачать игру для Windows (144 МБ)](https://github.com/tenyyq/rally-forever/releases/download/v0.8.0/RallyForever-0.8.0-windows.zip)** — ранняя тестовая версия.
 
 **[Смотреть трейлер (mp4, 29 секунд)](https://github.com/tenyyq/rally-forever/releases/download/trailer/rally-forever-trailer.mp4)**
 
