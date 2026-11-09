@@ -4,7 +4,7 @@
 
 [![Смотреть трейлер](screenshots/gravel.jpg)](https://github.com/tenyyq/rally-forever/releases/download/trailer/rally-forever-trailer.mp4)
 
-**[Скачать игру для Windows (122 МБ)](https://github.com/tenyyq/rally-forever/releases/download/v0.5.0/RallyForever-0.5.0-windows.zip)** — ранняя тестовая версия.
+**[Скачать игру для Windows (122 МБ)](https://github.com/tenyyq/rally-forever/releases/download/v0.6.0/RallyForever-0.6.0-windows.zip)** — ранняя тестовая версия.
 
 **[Смотреть трейлер (mp4, 29 секунд)](https://github.com/tenyyq/rally-forever/releases/download/trailer/rally-forever-trailer.mp4)**
 
@@ -25,6 +25,8 @@
 - Механическая или автоматическая коробка, свои назначения управления
 
 ## Благодарности
+
+Участник проекта: [stiiky_](https://github.com/pmnkhn).
 
 Модель автомобиля основана на работе [FREE Lancia Delta HF Integrale evo 2](https://sketchfab.com/3d-models/free-lancia-delta-hf-integrale-evo-2-85614131e0dc4613a948472aaa935fc7), автор TARANTULA (begemot.988888), лицензия [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Изменения: удалены логотипы и номера, заменена раскраска, уменьшены текстуры.
 
