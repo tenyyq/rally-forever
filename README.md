@@ -4,7 +4,7 @@
 
 [![Смотреть трейлер](screenshots/gravel.jpg)](https://github.com/tenyyq/rally-forever/releases/download/trailer/rally-forever-trailer.mp4)
 
-**[Скачать игру для Windows (144 МБ)](https://github.com/tenyyq/rally-forever/releases/download/v0.8.0/RallyForever-0.8.0-windows.zip)** — ранняя тестовая версия.
+**[Скачать игру для Windows (144 МБ)](https://github.com/tenyyq/rally-forever/releases/download/v0.9.0/RallyForever-0.9.0-windows.zip)** — ранняя тестовая версия.
 
 **[Смотреть трейлер (mp4, 29 секунд)](https://github.com/tenyyq/rally-forever/releases/download/trailer/rally-forever-trailer.mp4)**
 
@@ -31,3 +31,7 @@
 Модель автомобиля основана на работе [FREE Lancia Delta HF Integrale evo 2](https://sketchfab.com/3d-models/free-lancia-delta-hf-integrale-evo-2-85614131e0dc4613a948472aaa935fc7), автор TARANTULA (begemot.988888), лицензия [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Изменения: удалены логотипы и номера, заменена раскраска, уменьшены текстуры.
 
 Весь остальной контент защищён авторским правом. Исходный код игры в этом репозитории не публикуется.
+
+
+### Retro Rally 0.9.0
+Восемь новых машин в стиле конца 90-х; отдельные настройки, полный, передний и задний привод. [Скачать актуальную сборку](https://github.com/tenyyq/rally-forever/releases/tag/v0.9.0).
